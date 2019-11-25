@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Crete Round");
+h1 {
+font-family: 'Crete Round';
+font-size: 36p;
+}
+h2 {
+font-family: 'Crete Round';
+font-size: 30px;
+}
+h3 {
+font-family: 'Crete Round';
+font-size: 24px;
+padding-left: 3%;
+}
+p {
+font-family: 'Crete Round';
+font-size: 12px;
+padding-left: 3%;
+}
+li {
+font-family: 'Crete Round';
+font-size: 16px;
+padding-left: 3%;
+}
+#description {
+font-family: 'Crete Round';
+font-size: 18px;
+padding-left: 3%;
+text-align: left;
+}
