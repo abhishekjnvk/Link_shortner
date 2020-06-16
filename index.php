@@ -32,11 +32,11 @@ if (isset($_REQUEST['url'])){
     }
       if($flag==1){
         $id = check_for_id($url);
-        echo "<h1 style='padding-left:5%;'>Here's your URL:</h1>";
-        echo "<p style='padding-left:5%;'>Shorted URL&nbsp: <a href='go.php?a=".$id."' alt='Shortened Link'>";
-        echo "go.php?a=".$id."</a></p>";
+        echo "<h1 style='padding-left:15%;'>Here's your URL:</h1>";
+        echo "<p style='padding-left:15%;'>Shorted URL&nbsp: <a href='go.php?a=".$id."' alt='Shortened Link'>";
+        echo "http://lsa.atwebpages.com.com/go.php?a=".$id."</a></p>";
 
-        echo "<p style='padding-left:5%;'>URL&nbsp: <a href='go.php' alt='Shortened Link'>";
+        echo "<p style='padding-left:15%;'>URL&nbsp: <a href='go.php' alt='Shortened Link'>";
         echo "$url</a></p>";
 
       }
