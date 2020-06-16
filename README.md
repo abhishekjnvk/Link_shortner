@@ -7,3 +7,7 @@ Link Shortner Made with PHP and MySql
 3. make a database with name "tiny" and import tiny.sql
 
 Please Star this repo by clicking star at top right corner of page.
+
+
+
+### Live preview avialable at : http://lsa.atwebpages.com/
